@@ -1,5 +1,4 @@
-This is the start of a simple compiler which you can modify to compile
-the MiniJava language.  It is meant primarily to show how the
+This is compiler meant primarily to show how the
 toolchain works and how the various parts of the compiler project plug
 together.
 
